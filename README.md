@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Oiê! Eu sou a Isabela Werneck
 
-<!--
-**iwerneck-code/iwerneck-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Apaixonada por **jogos** e tudo que envolve criatividade com tecnologia  
+🐍 Estudando **Python**, **Engenharia de Software** e cursando **Análise e Desenvolvimento de Sistemas**  
+🌍 Acredito que a gente pode deixar o mundo **um pouquinho melhor** com o que a gente cria 💡  
 
-Here are some ideas to get you started:
+## 💻 Um pouco sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gosto de transformar ideias em códigos divertidos e úteis
+- Amo aprender coisas novas (e compartilhar também!)
+- Estou sempre buscando crescer como dev e como pessoa
+
+## 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/isabela-werneck-2b09a9277/)**)
+
+---
+
+✨ Obrigada por passar por aqui!
+
